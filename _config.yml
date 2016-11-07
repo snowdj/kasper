@@ -1,3 +1,14 @@
+# Where things are
+collections:
+  my_categories:
+    output: true
+    permalink: /category/:name/
+  my_tags:
+    output: true
+permalink: /tag/:name/
+
+
+
 name: Your New Jekyll Site
 description: Blogging about stuffs
 meta_description: "Your New Jekyll Site, Blogging about stuffs"
