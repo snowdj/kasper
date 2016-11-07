@@ -5,7 +5,7 @@ collections:
     permalink: /category/:name/
   my_tags:
     output: true
-permalink: /tag/:name/
+    permalink: /tag/:name/
 
 
 
