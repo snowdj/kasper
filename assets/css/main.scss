@@ -8,6 +8,10 @@
 	display:inline;
 }
 
+/* for categories  https://nildeala.fr/2015/02/10/jekyll-pro-tip-awesome-archive-page.html */
+.catbloc:not(:target) {
+    display: none;
+}
 // Import partials from `sass_dir` (defaults to `_sass`)
 @import
 	"syntax"
